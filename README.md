@@ -2,7 +2,7 @@
 
 [![Documentation](https://docs.rs/synchrotron/badge.svg)](https://docs.rs/synchrotron)
 [![Crates.io](https://img.shields.io/crates/v/synchrotron.svg)](https://crates.io/crates/synchrotron)
-[![Travis CI Build Status](https://travis-ci.org/Rufflewind/synchrotron.svg?branch=master)](https://travis-ci.org/Rufflewind/synchrotron)
+[![Build Status](https://github.com/Rufflewind/synchrotron/actions/workflows/build.yml/badge.svg)](https://github.com/Rufflewind/synchrotron/actions/workflows/build.yml)
 
 [Documentation for the `master` branch](https://rufflewind.com/synchrotron)
 
